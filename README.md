@@ -1,10 +1,10 @@
 # medical-concept-normalization
 Data collection:  
   >-Original data collection  
-    - Training set  
+    >>- Training set  
     - Validate set  
     - Testing set  
-  -Experiment (Change test dataset, folder 0)   
+  >-Experiment (Change test dataset, folder 0)   
     - Training set  
     - Validate set  
     - Testing set  
@@ -19,4 +19,4 @@ Data collection:
       - 80% overlap  
       - 90% overlap  
       - 100% overlap  
-  -Experiment (Change training dataset)  
+  >-Experiment (Change training dataset)  
