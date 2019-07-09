@@ -1,9 +1,10 @@
 # medical-concept-normalization
-Data collection:  
+## Data collection:
+### AskAPatient 
   >-Original data collection  
-        - Training set  
-        - Validate set  
-        - Testing set  
+    - Training set  
+    - Validate set  
+    - Testing set  
   >-Experiment (Change test dataset, folder 0)   
     - Training set  
     - Validate set  
