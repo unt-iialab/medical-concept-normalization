@@ -1,6 +1,6 @@
 # medical-concept-normalization
 Data collection:  
-  -Original data collection  
+  >-Original data collection  
     - Training set  
     - Validate set  
     - Testing set  
