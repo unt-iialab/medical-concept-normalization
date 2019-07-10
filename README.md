@@ -2,9 +2,14 @@
 ## Data collection:
 ### AskAPatient 
   >-Original data collection  
-    		*Training set  
+    *Training set  
     - Validate set  
-    - Testing set  
+    - Testing set
+<ol>
+<li>Bird</li>
+<li>McHale</li>
+<li>Parish</li>
+</ol>
   >-Experiment (Change test dataset, folder 0)   
     - Training set  
     - Validate set  
