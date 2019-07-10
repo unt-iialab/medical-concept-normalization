@@ -1,0 +1,868 @@
+,one,two,three
+0,0,Fear,'scared' feeling
+1,2,Heel pain,heel pain
+2,3,Joint crepitus,cracking sensations in my joints
+3,5,Tachycardia,fast and slow heartbeat
+4,5,Tachycardia,increased heart rate
+5,8,Arthritis,arthritis
+6,8,Arthritis,arthritis
+7,8,Arthritis,arthritis
+8,8,Arthritis,arthritis
+9,8,Arthritis,arthritis
+10,8,Arthritis,arthritis
+11,8,Arthritis,arthritis
+12,14,Contusion of hand,large dark bruise on hand
+13,18,Tachycardia,elevated heart rate
+14,21,Clumsiness,clumsiness
+15,22,Hallucinations,hallucinations
+16,22,Hallucinations,halucinations during day
+17,27,Reduced libido,decreased sex drive
+18,27,Reduced libido,no sex drive
+19,28,Non-smoker,No smoking
+20,29,Reduced mobility,could hardly move
+21,30,Sharp pain,sharp pain in my stomach
+22,30,Sharp pain,sharp pain in the ball of my right foot
+23,30,Sharp pain,sharp pain shoulder
+24,31,Weight gain,Weight gain
+25,31,Weight gain,weight gain
+26,32,Menstrual spotting,spotting
+27,34,Abdominal colic,Abdominal cramps
+28,34,Abdominal colic,intestinal/stomach pain
+29,37,Pain in lower limb,Leg pain
+30,37,Pain in lower limb,Leg pains
+31,37,Pain in lower limb,debillitating leg pain
+32,37,Pain in lower limb,leg pain
+33,37,Pain in lower limb,leg pain
+34,37,Pain in lower limb,leg pain
+35,37,Pain in lower limb,pains in legs
+36,38,Irritable bowel syndrome,irritable colon
+37,44,Bone pain,bone pain
+38,47,Hypercholesterolaemia,Hypercholesterolemia
+39,49,Asthenia,Extreme fatigue
+40,49,Asthenia,Extreme fatigue
+41,49,Asthenia,extreme fatigue
+42,49,Asthenia,extreme fatigue
+43,49,Asthenia,extreme weakness
+44,49,Asthenia,felt weak
+45,49,Asthenia,very weak
+46,49,Asthenia,weak
+47,49,Asthenia,weak
+48,49,Asthenia,weak
+49,49,Asthenia,weakness
+50,49,Asthenia,weakness
+51,49,Asthenia,weakness
+52,49,Asthenia,weakness
+53,49,Asthenia,weakness
+54,53,Constipation,Constipation
+55,53,Constipation,constipated
+56,58,Muscle rigidity,muscle stiffness
+57,61,Dry skin,persistent dry skin spots
+58,71,Mood swings,mood swings
+59,71,Mood swings,severe mood swings
+60,74,Disability,disability
+61,76,Abdominal pain,Abdominal pain
+62,76,Abdominal pain,Abdominal pain
+63,77,Tenalgia,tendons hurt
+64,79,Pain,PAIN
+65,79,Pain,Pain
+66,79,Pain,Pain
+67,79,Pain,ache
+68,79,Pain,achiness
+69,79,Pain,afterpain
+70,79,Pain,pain
+71,79,Pain,pain
+72,79,Pain,pain
+73,79,Pain,pain
+74,79,Pain,pain
+75,79,Pain,pain
+76,79,Pain,pain
+77,79,Pain,pain
+78,79,Pain,pain
+79,79,Pain,pain
+80,79,Pain,pain
+81,79,Pain,pain
+82,79,Pain,pain
+83,79,Pain,pain
+84,79,Pain,pain
+85,79,Pain,pain
+86,79,Pain,pain
+87,79,Pain,pain
+88,79,Pain,pain
+89,79,Pain,pain
+90,79,Pain,pain
+91,79,Pain,pain
+92,79,Pain,pain
+93,79,Pain,pain
+94,79,Pain,pain
+95,79,Pain,pain and stiffness
+96,79,Pain,pain in the lower part of my knees
+97,79,Pain,pain pain pain
+98,79,Pain,pains
+99,79,Pain,pains
+100,80,Myocardial infarction,heart attack
+101,80,Myocardial infarction,heart attack
+102,80,Myocardial infarction,heart attack
+103,80,Myocardial infarction,heart attack
+104,80,Myocardial infarction,heart attack
+105,80,Myocardial infarction,heart attacks
+106,80,Myocardial infarction,heart attacks
+107,80,Myocardial infarction,heart attacks
+108,80,Myocardial infarction,mild heart attack
+109,88,Tight chest,chest tightness
+110,89,Finding of increased blood pressure,blood pressure elevated
+111,89,Finding of increased blood pressure,high BP
+112,89,Finding of increased blood pressure,high blood pressure
+113,90,Feeling agitated,Extreme agitation
+114,91,Fibromyalgia,fibromyalgia
+115,92,Multiple sclerosis,MS
+116,94,Headache,Headaches
+117,94,Headache,head hurt
+118,94,Headache,headache
+119,94,Headache,headaches
+120,94,Headache,headaches
+121,94,Headache,headaches
+122,94,Headache,headaches
+123,94,Headache,headaches
+124,96,Tremor,tremors
+125,96,Tremor,tremors although the body
+126,98,Poor concentration,concentration is worse than ever
+127,98,Poor concentration,difficulty concentratiing
+128,98,Poor concentration,some concentration problems
+129,100,Muscle weakness,Lost muscular strength
+130,100,Muscle weakness,Muscles feel like a wet dish rag
+131,100,Muscle weakness,loss of muscel strength
+132,100,Muscle weakness,loss of strength
+133,100,Muscle weakness,lost all the strength in my muscles
+134,100,Muscle weakness,muscle weakness
+135,100,Muscle weakness,muscle weakness
+136,100,Muscle weakness,muscle weakness
+137,100,Muscle weakness,muscle weakness in mouth area
+138,100,Muscle weakness,total muscel weakness
+139,101,Sleep pattern disturbance,Disturbed sleep patterns
+140,102,Myositis,muscle inflamation
+141,108,Chest pain,chest ache
+142,108,Chest pain,chest aches
+143,108,Chest pain,chest pain
+144,109,Pain in pelvis,lower pelvic pain
+145,111,Knee pain,Major sorness in knees
+146,111,Knee pain,knee pain
+147,111,Knee pain,knee pain
+148,111,Knee pain,knee pain
+149,111,Knee pain,kneejoin paint
+150,111,Knee pain,knees sore
+151,111,Knee pain,pains in my left knee
+152,117,Restless legs,restless leg syndrome
+153,120,Haematuria,blood began showing up in my urine
+154,120,Haematuria,hematuria
+155,120,Haematuria,hematuria
+156,122,Tendonitis,tendonitis
+157,125,Depression,DEPRESSION
+158,125,Depression,deppression
+159,125,Depression,depressed
+160,125,Depression,depression
+161,125,Depression,depression
+162,125,Depression,depression
+163,125,Depression,depression
+164,125,Depression,depression
+165,125,Depression,depression
+166,125,Depression,depression
+167,125,Depression,growing depression
+168,125,Depression,unwarranted depression
+169,127,Burning feet,Burning feet
+170,129,Burning pain,Severe (burning) pain in lower left arm
+171,131,Loss of taste,taste loss
+172,132,Sinusitis,sinus colds
+173,142,Urine looks dark,dark urine
+174,142,Urine looks dark,dark urine
+175,144,Renal injury,Kidney Injury
+176,150,Derealisation,HAND FEELS LIKE IT'S NOT MINE
+177,150,Derealisation,legs feel like they don't belong to me
+178,151,Confusion,confusion
+179,151,Confusion,mental confusion
+180,153,Eye pain,eyes hurt
+181,157,Renal failure,kidney malfunction
+182,157,Renal failure,renal and respiratory failure
+183,158,Night sweats,night sweats
+184,165,Type 2 diabetes mellitus,type 11 diabetic
+185,165,Type 2 diabetes mellitus,type2 diabetes
+186,166,Numbness,Numbness
+187,166,Numbness,numb-like
+188,166,Numbness,numbness
+189,168,Dyssomnia,sleep disturbance
+190,172,Shoulder pain,pain in shoulder
+191,172,Shoulder pain,pain in shoulders
+192,172,Shoulder pain,shoulder pain
+193,172,Shoulder pain,shoulder pain
+194,172,Shoulder pain,shoulder pain
+195,172,Shoulder pain,shoulder pain
+196,172,Shoulder pain,shoulder pain
+197,180,Dysphonia,speech so bad
+198,182,Foot pain,ball of my left foot was so painful
+199,182,Foot pain,feet pain
+200,182,Foot pain,foot pain
+201,182,Foot pain,foot pain
+202,182,Foot pain,left foot started hurting
+203,182,Foot pain,pain in feet and legs
+204,183,Amnesia,MEMORY LOSS
+205,183,Amnesia,MEMORY LOSS
+206,183,Amnesia,Memory Loss
+207,183,Amnesia,memory loss
+208,183,Amnesia,memory loss
+209,183,Amnesia,memory loss
+210,183,Amnesia,memory loss
+211,183,Amnesia,memory loss
+212,183,Amnesia,memory loss
+213,183,Amnesia,memory loss
+214,183,Amnesia,memory loss
+215,183,Amnesia,memory loss
+216,183,Amnesia,memory loss
+217,184,Delusional disorder,Paranoia
+218,184,Delusional disorder,paranoia
+219,185,Muscle strain,muscle strain
+220,187,Anxiety,anxiety
+221,187,Anxiety,anxiety
+222,187,Anxiety,anxious
+223,189,Parkinson's disease,Parkinson
+224,189,Parkinson's disease,parkinson's disease
+225,190,Hip pain,Aches in hip joint
+226,190,Hip pain,Hip pain
+227,190,Hip pain,hip pain
+228,190,Hip pain,hip soreness
+229,190,Hip pain,pain in hips
+230,190,Hip pain,pain in my hip
+231,193,Cough,unexplained cough
+232,197,Stomach cramps,Severe abdominal cramping
+233,197,Stomach cramps,severe abdominal cramps
+234,205,Hand pain,right hand has been hurting
+235,210,Charleyhorse,Charlie Horses
+236,210,Charleyhorse,charley horse in my side
+237,210,Charleyhorse,charley horses in breasts
+238,210,Charleyhorse,charley horses in feet
+239,214,Muscle cramp,buttocks cramps
+240,214,Muscle cramp,cramping
+241,214,Muscle cramp,cramping
+242,214,Muscle cramp,cramping
+243,214,Muscle cramp,cramping in back
+244,214,Muscle cramp,cramps
+245,214,Muscle cramp,cramps
+246,214,Muscle cramp,cramps
+247,214,Muscle cramp,cramps
+248,214,Muscle cramp,cramps
+249,214,Muscle cramp,muscle cramps
+250,214,Muscle cramp,muscle cramps
+251,214,Muscle cramp,muscle cramps
+252,214,Muscle cramp,muscle spasms
+253,216,Forgetful,forgetfullness
+254,216,Forgetful,forgetfulness
+255,218,Feeling irritable,irratibility
+256,218,Feeling irritable,irritability
+257,218,Feeling irritable,irritable
+258,220,Heart disease,coronary disease
+259,220,Heart disease,heart damage
+260,220,Heart disease,heart disease
+261,220,Heart disease,heart disease
+262,220,Heart disease,heart disease
+263,222,Alopecia,alopecia
+264,226,Nerve injury,nerve damage
+265,228,Arthralgia,Pain in joints
+266,228,Arthralgia,Sore joints
+267,228,Arthralgia,Very sore and achy joints
+268,228,Arthralgia,joint ache
+269,228,Arthralgia,joint pain
+270,228,Arthralgia,joint pain
+271,228,Arthralgia,joint pains
+272,228,Arthralgia,joints aching
+273,228,Arthralgia,severe joint aches
+274,229,Excitement,easily excited
+275,234,Unable to concentrate,inability to concentrate
+276,234,Unable to concentrate,lack of concentration
+277,235,Exhaustion,exhausted
+278,238,Tinnitus,problems with tinnitus
+279,238,Tinnitus,tinninitus
+280,238,Tinnitus,tinnitus in my left ear
+281,240,Moderate anxiety,hightened Anxiety Levels
+282,243,Diarrhoea,diaharrea
+283,243,Diarrhoea,diahrea
+284,243,Diarrhoea,diarrhea
+285,243,Diarrhoea,diarrhea
+286,243,Diarrhoea,diarrhea
+287,243,Diarrhoea,diarrhea
+288,243,Diarrhoea,diarrhoea
+289,244,Disorientated,disorientation
+290,245,Pins and needles,Tingling
+291,245,Pins and needles,Tingling in back of neck
+292,245,Pins and needles,pins and needles feeling
+293,245,Pins and needles,tingling hands
+294,245,Pins and needles,tingling in my feet
+295,245,Pins and needles,tingling on left arm
+296,245,Pins and needles,tingling on left side of face
+297,245,Pins and needles,tingly
+298,245,Pins and needles,weird toe tingling
+299,246,Visual disturbance,Loss of Vison
+300,246,Visual disturbance,at times felt like i'm going blind
+301,246,Visual disturbance,vision problems
+302,246,Visual disturbance,vision problems
+303,249,Colitis,collitis
+304,254,Swelling,swelling
+305,254,Swelling,swelling
+306,259,Aortic aneurysm,aortic aneurysem
+307,260,Excruciating pain,excruciating pain
+308,261,Disorder of tendon,tendinopathy
+309,262,Nasal congestion,stuffy nose
+310,265,Myalgia,Muscle pain
+311,265,Myalgia,Muscule pain
+312,265,Myalgia,Pain in muscles
+313,265,Myalgia,Sore muscle
+314,265,Myalgia,debilitating muscle pain in my back
+315,265,Myalgia,muscle aches
+316,265,Myalgia,muscle achs
+317,265,Myalgia,muscle pain
+318,265,Myalgia,muscle pain
+319,265,Myalgia,muscle pain
+320,265,Myalgia,muscle pain
+321,265,Myalgia,muscle pain
+322,265,Myalgia,muscle pain
+323,265,Myalgia,muscle pain
+324,265,Myalgia,muscle pain
+325,265,Myalgia,muscle pain
+326,265,Myalgia,muscle pain
+327,265,Myalgia,muscle pain
+328,265,Myalgia,muscle pain
+329,265,Myalgia,muscle pain
+330,265,Myalgia,muscle pains
+331,265,Myalgia,muscle pains
+332,265,Myalgia,muscular pain
+333,265,Myalgia,sore muscles
+334,265,Myalgia,soreness in muscles
+335,268,Increased venous pressure,high BP
+336,268,Increased venous pressure,high blood pressure
+337,268,Increased venous pressure,high blood pressure
+338,269,Rheumatoid arthritis,rheumatoid arthritis
+339,270,Rhinitis,aggrivates my Rhinitis
+340,271,Haemorrhoids,hemorrhoids
+341,276,Increased appetite,increased appetite
+342,277,Diabetes mellitus,diabetic
+343,288,Postmenopausal bleeding,post-menopausal and have now had a six day period
+344,289,Severe pain,SEVERE muscle pain in sholder
+345,289,Severe pain,Severe back pain
+346,289,Severe pain,Severe hip & feet pain
+347,289,Severe pain,Severe joint pain in the shoulders
+348,289,Severe pain,Severe leg pain
+349,289,Severe pain,back pain
+350,289,Severe pain,extreme ache in left arm
+351,289,Severe pain,extreme muscle pain
+352,289,Severe pain,extreme muscle pain in shoulders
+353,289,Severe pain,extreme pain
+354,289,Severe pain,extremly bad pains in arms
+355,289,Severe pain,imence pain in legs
+356,289,Severe pain,servere pain
+357,289,Severe pain,severe hip pain
+358,289,Severe pain,severe knee pain
+359,289,Severe pain,severe neck pain
+360,289,Severe pain,severe pain
+361,289,Severe pain,severe pain in legs
+362,289,Severe pain,severe pain in the upper back
+363,289,Severe pain,severe pains in my arms
+364,291,Hypersomnia,only wanted to sleep
+365,293,Thigh pain,"Pain in both quads (above knee, back of leg)"
+366,295,Vaginospasm,severe vaginal cramps
+367,299,Irregular menstruation,irregular periods
+368,300,Palpitations,heart palpitations
+369,300,Palpitations,heart palpitations
+370,301,Muscle fatigue,Muscle Fatigue
+371,301,Muscle fatigue,legs began feeling very tired
+372,301,Muscle fatigue,tired or burning muscles
+373,304,Degenerative disease of the central nervous system,neurological problems
+374,308,Bursitis of hip,bursitis in the hips
+375,309,Neck pain,Neck pain
+376,309,Neck pain,neck hurt
+377,309,Neck pain,pain in neck
+378,309,Neck pain,pain in neck
+379,309,Neck pain,pain neck
+380,309,Neck pain,slight neck pain
+381,317,Impaired mobility,needed help getting out of bed and off a chair
+382,318,Generalised aches and pains,ache all over
+383,318,Generalised aches and pains,aches and pains
+384,318,Generalised aches and pains,aches and pains
+385,318,Generalised aches and pains,aching (like the flu)
+386,318,Generalised aches and pains,everything hurts
+387,318,Generalised aches and pains,mild aches
+388,320,Failure to lose weight,unable to lose weight even when on strict diet
+389,321,Cold sweat,Cold sweat
+390,321,Cold sweat,"cold sweat, shaking uncontrollably"
+391,323,Bursitis,bursitus
+392,323,Bursitis,inflammed bursae
+393,325,Fatigue,Fatigue
+394,325,Fatigue,extreme tiredness
+395,325,Fatigue,fatigue
+396,325,Fatigue,fatigue
+397,325,Fatigue,fatigue
+398,325,Fatigue,fatigue
+399,325,Fatigue,fatigue
+400,325,Fatigue,fatigue
+401,325,Fatigue,fatigue
+402,325,Fatigue,fatigue
+403,325,Fatigue,fatigue
+404,325,Fatigue,fatigued
+405,325,Fatigue,fatique
+406,325,Fatigue,unexplained fatigue
+407,325,Fatigue,very fatigued
+408,326,Joint stiffness,joint stiffness
+409,327,Retching,dry heaves
+410,333,Chronic rhinitis,chronic rhinitus
+411,334,Pulse fast,rapid pulse
+412,335,Aphasia,aphasia
+413,336,Aptyalism,dry mouth
+414,337,Muscle atrophy,loss of muscle mass in arms
+415,337,Muscle atrophy,loss of muscle mass in face
+416,337,Muscle atrophy,muscle loss
+417,337,Muscle atrophy,muscle wasting
+418,338,Weight loss,weight loss
+419,343,Burning sensation,burning sensations in calves
+420,344,Kidney disease,kidney damage
+421,347,Intraocular haemorrhage,eye hemorrhages
+422,359,Influenza-like illness,flu like symptoms
+423,359,Influenza-like illness,flu-like symtoms
+424,360,Generalised acute body pains,FELT LIKE I HAD BEEN RUN OVER BY A TRUCK
+425,360,Generalised acute body pains,feel like I got hit by a truck
+426,363,Cramp in foot,cramping in toes
+427,363,Cramp in foot,foot and leg cramps
+428,364,Pain in upper limb,Very severe pain in arms
+429,364,Pain in upper limb,arm aching
+430,364,Pain in upper limb,arm pain
+431,364,Pain in upper limb,pain in my arms
+432,365,Oedema of hand,Edema of hands
+433,380,Dislocation of joint,dislocating
+434,388,Epigastric discomfort,upper abdominal discomfort
+435,392,Decreased cholesterol esters,"good cholesterol is whacked, lowered"
+436,396,Inflammatory disorder,inflamation
+437,402,Myopathy,muscle damage
+438,402,Myopathy,muscle problems
+439,405,Sleep deprivation,lack of sleep
+440,416,Heavy feeling,heaviness
+441,418,Stiff neck,stiff neck
+442,419,Backache,aches and pains in my back
+443,419,Backache,back aches
+444,419,Backache,back pain
+445,419,Backache,back pain
+446,419,Backache,back pain
+447,419,Backache,back pain
+448,419,Backache,back soreness
+449,419,Backache,pain in back
+450,419,Backache,pain in back
+451,419,Backache,pain in my abdomen
+452,424,Indigestion,occasional indigestion
+453,426,Upset stomach,stomach irritation
+454,426,Upset stomach,stomach upset
+455,427,Excessive upper gastrointestinal gas,GI distress
+456,427,Excessive upper gastrointestinal gas,excess gas
+457,427,Excessive upper gastrointestinal gas,gas
+458,427,Excessive upper gastrointestinal gas,gas
+459,427,Excessive upper gastrointestinal gas,gas
+460,427,Excessive upper gastrointestinal gas,gas
+461,427,Excessive upper gastrointestinal gas,gas
+462,427,Excessive upper gastrointestinal gas,gassy
+463,427,Excessive upper gastrointestinal gas,gastritis
+464,427,Excessive upper gastrointestinal gas,gastro problem
+465,427,Excessive upper gastrointestinal gas,gastrointestinal cramping
+466,427,Excessive upper gastrointestinal gas,general stomach upset feeling
+467,427,Excessive upper gastrointestinal gas,gets tired a lot
+468,428,Urinary frequency,frequent urination
+469,430,Dry eyes,extremely dry eyes
+470,433,Buzzing in ear,buzzing in both ears
+471,434,Ringing in ear,last straw was ringing in the ears
+472,435,Pain in throat,sore throat
+473,443,Serum creatinine raised,elevated creatine
+474,444,Serum cholesterol raised,Cholesterol has been high
+475,444,Serum cholesterol raised,cholesterol is high
+476,444,Serum cholesterol raised,elevated levels of high cholesterol
+477,455,Insomnia,Insomia
+478,455,Insomnia,Insomnia
+479,455,Insomnia,insomnia
+480,462,Elbow joint pain,aching joints elbows
+481,465,Ankle joint pain,joints in my angles hurt
+482,474,Lethargy,lethargy
+483,475,Tired,Extremely tired
+484,475,Tired,Tired more than ususal
+485,475,Tired,tired
+486,475,Tired,"very, very tired all the time"
+487,476,Hot sweats,sweats
+488,482,Lacks confidence,destroyed my self-confidence
+489,483,Poor self-image,self loathing
+490,489,Panic attack,panic attacks
+491,491,Walking disability,cannot walk more than 5 yards
+492,491,Walking disability,couldn't walk
+493,491,Walking disability,difficulty picking my feet up
+494,491,Walking disability,struggling walking too far
+495,492,Difficulty breathing,difficulty breathing
+496,492,Difficulty breathing,difficulty breathing
+497,499,Liver disease,liver problems
+498,505,Bleeding between periods,vaginal bleeding and I am only 11 days into my cycle
+499,509,Flushing,body flushes
+500,509,Flushing,hot flashes
+501,516,Rhabdomyolysis,Rhabdomyolosis
+502,516,Rhabdomyolysis,rhabdomyolysis
+503,517,Blurred vision - hazy,blurred vison
+504,517,Blurred vision - hazy,blurriness
+505,517,Blurred vision - hazy,foggy vision
+506,521,Tightness in throat,Tightness of throat
+507,524,Ankle pain,sore ankles
+508,527,Erythema,erithema
+509,529,Hives,painfull welts on bottom of feet
+510,530,Poor short-term memory,Short term memory loss
+511,530,Poor short-term memory,loss of short term memory
+512,530,Poor short-term memory,short term memory loss
+513,530,Poor short-term memory,short term memory loss
+514,531,Unable to think clearly,Difficulty thinking
+515,535,Noise intolerance,noise intolerance
+516,541,Cannot sleep at all,Couldn't sleep
+517,541,Cannot sleep at all,could not sleep
+518,543,Always sleepy,sleepy all or most sf the time
+519,543,Always sleepy,wanted to sleep all of the time
+520,546,Lack of stamina,reduced stamina
+521,548,Bloating symptom,bloating
+522,548,Bloating symptom,bloating
+523,548,Bloating symptom,bloating
+524,548,Bloating symptom,bloating
+525,548,Bloating symptom,bloating
+526,548,Bloating symptom,bloating
+527,565,Knee stiff,aches and stiffness knees
+528,566,Hip stiff,aches and stiffness hips
+529,567,Hand joint stiff,stiffness in my hands
+530,577,Muscle tension,constant muscle tension in legs
+531,577,Muscle tension,muscles very tight
+532,578,Hand cramps,cramps in my fingers
+533,579,Cramp in calf,calf muscle cramping
+534,579,Cramp in calf,cramping in calf
+535,584,Weight increased,weight increase
+536,586,Rupture of muscle,tore a calf muscle
+537,588,Dysmenorrhoea,severe menstual pain
+538,590,Tiredness symptom,TIREDNESS
+539,590,Tiredness symptom,tiredness
+540,591,Tired all the time,persistent feeling of tiredness
+541,592,Dyspnoea,shortness of breath
+542,595,Impaired exercise tolerance,exercise intolerance
+543,597,Flatulence/wind,flatulence
+544,597,Flatulence/wind,windy
+545,598,Urinary retention,couldn't urinate
+546,598,Urinary retention,couldnt pass urine
+547,606,Arthralgia of the lower leg,joint aches in calves
+548,606,Arthralgia of the lower leg,joint pain in legs
+549,607,Bad circulation - vasomotor change,circulatory problems
+550,608,Cold hands,cold hands
+551,610,Stiffness,finger stiffness
+552,610,Stiffness,stiffness
+553,610,Stiffness,stiffness
+554,611,Syncope,fainting
+555,614,Stomach ache,pain in the pit of my stomach
+556,614,Stomach ache,stomach hurt soooo bad
+557,614,Stomach ache,stomach pain
+558,614,Stomach ache,stomach pain
+559,619,Drowsy,drowsiness
+560,619,Drowsy,drowsy
+561,619,Drowsy,drowsy
+562,623,Rash,Rashes
+563,623,Rash,rush all over my face
+564,624,"Flatulence, eructation and gas pain",gas pains back
+565,633,Renal pain,kidney pain
+566,633,Renal pain,kidney pain
+567,638,Tingling of skin,arms tingling in
+568,644,Loss of motivation,lack of enthusiasm
+569,644,Loss of motivation,lack of motivation
+570,646,Loss of hair,Hair loss
+571,646,Loss of hair,hair loss
+572,646,Loss of hair,hair loss
+573,646,Loss of hair,hair loss
+574,646,Loss of hair,hair loss
+575,648,Facial swelling,face had swollen up
+576,648,Facial swelling,slight swelling of cheeks
+577,651,Thoracic back pain,soreness in upper back
+578,652,Low back pain,Lower Back Pain
+579,652,Low back pain,Lower back pain
+580,652,Low back pain,low back pain
+581,652,Low back pain,low back pains
+582,652,Low back pain,lower back pain
+583,652,Low back pain,lower back pain
+584,662,Unable to walk,can't walk
+585,662,Unable to walk,cannot walk even a short distance due to pain
+586,662,Unable to walk,inablity to walk
+587,662,Unable to walk,unable to walk
+588,663,Unable to walk up step,Could not walk up stairs with anything in my hands more than about 5-10 lbs
+589,663,Unable to walk up step,could not walk up the stairs
+590,663,Unable to walk up step,couldn't climb stairs
+591,666,Unable to balance,loss of balance
+592,669,Unable to lie down,could not lie on either side in bed
+593,681,Unable to move leg,couldn't move my legs
+594,683,Difficulty gripping,trouble holding on to things
+595,686,Pain in toe,toes acking
+596,686,Pain in toe,toes hurt
+597,687,Strain of calf muscle,pulled/strained calf
+598,689,Difficulty controlling anger,loose temper faster
+599,693,Moody,extreme moodiness
+600,693,Moody,moodiness
+601,698,Pain in left leg,pain in my left leg
+602,700,Myalgia/myositis - shoulder,Nagging muscle pain between and just below my shoulder blades
+603,700,Myalgia/myositis - shoulder,Shoulder muscle pain
+604,701,Myalgia/myositis - upper arm,muscle pain in my biceps
+605,703,Myalgia/myositis -pelvis/thigh,muscle pain in thighs
+606,707,Unable to eat,couldn't eat or drink
+607,710,Slurred speech,slurred speach
+608,711,Vaginal bleeding,vaginal bleeding
+609,715,Foot swelling,lumpy swelling on both feet in same place on each
+610,718,Knee joint inflamed,knee inflammation
+611,731,Knee joint painful on movement,hurt to bend my knee
+612,733,Tightness sensation,tightness in shoulders
+613,741,Pain in calf,intense calf pain
+614,745,Nasal sinus problem,sinus problems
+615,746,Difficulty sleeping,Difficult to sleep
+616,746,Difficulty sleeping,cannot sleep
+617,746,Difficulty sleeping,could not sleep well
+618,746,Difficulty sleeping,poor sleep
+619,746,Difficulty sleeping,rarely sleep well
+620,749,Unable to get off a bed,not being able to get out of bed in the morning
+621,753,Peripheral neuropathy,peripheral neuropathy in arms
+622,753,Peripheral neuropathy,toe neuropathy
+623,756,Feeling high,feel drugged
+624,763,Digestive symptom,digestion problems
+625,771,Numbness of lower limb,numbness in ankles and toes
+626,775,Weakness of limb,Weakness in Leg Muscles
+627,775,Weakness of limb,muscle weakness in ankle
+628,775,Weakness of limb,muscle weakness in my legs
+629,775,Weakness of limb,weakness in legs
+630,782,Deteriorating renal function,Kidney function became a problem
+631,787,Irregular heart beat,severe irregular heartbeat
+632,794,Malaise,feel like shit all the time
+633,794,Malaise,ill feeling
+634,800,Large breast,breasts getting more and more (and more!
+635,804,Fever,fever
+636,805,Menorrhagia,Heavy menstrual bleeding
+637,805,Menorrhagia,heavy menstral bleeding with clots even though i had just finished my cycle a week before
+638,807,Mild cognitive disorder,incipient dementia
+639,809,Memory impairment,couldnt remember anything
+640,809,Memory impairment,memory problems
+641,809,Memory impairment,memory problems
+642,809,Memory impairment,poor memory
+643,810,Impairment of balance,POOR BALANCE
+644,810,Impairment of balance,problems with balance
+645,813,Visual impairment,vision impaired
+646,815,Erectile dysfunction,erectile disfunction
+647,816,Gastric ulcer,stomache ulcers
+648,824,Adhesive capsulitis of shoulder,frozen shoulder
+649,826,Vertigo,severe vertigo
+650,826,Vertigo,vertigo
+651,828,Fear of falling,fear of falling over
+652,829,Foot eczema,Eczema on feet
+653,830,Dizziness,Dizzy spells
+654,830,Dizziness,dizzines
+655,830,Dizziness,dizziness
+656,830,Dizziness,dizzy
+657,830,Dizziness,dizzy
+658,830,Dizziness,dizzy
+659,834,Sweating,sweating
+660,840,Itching,constant itching
+661,840,Itching,intolerable itching
+662,840,Itching,itchy hands
+663,847,Mentally dull,Brain feel kind of foggy
+664,847,Mentally dull,Foggy brain
+665,847,Mentally dull,brain fog
+666,847,Mentally dull,brain fog
+667,847,Mentally dull,diminished mental acuity
+668,847,Mentally dull,mentally weaker
+669,852,Vomiting,vomiting
+670,852,Vomiting,vomiting
+671,853,Nausea,nausea
+672,853,Nausea,nausea
+673,853,Nausea,nausea
+674,853,Nausea,nausea
+675,853,Nausea,nausea
+676,853,Nausea,nausea
+677,853,Nausea,nauseous
+678,861,Pain provoked by movement,painful time lifting my own arm
+679,864,Constant pain,constant leg pain
+680,864,Constant pain,constant pain knees
+681,864,Constant pain,deep constant pain
+682,865,Pain provoked by walking,Pain trying to walk
+683,865,Pain provoked by walking,walk was a very painful and a very slow
+684,867,Pain radiating to lumbar region of back,pain traveling to my stomach
+685,868,Malignant neoplasm of brain,brain cancer
+686,871,Ulcer,ulcers
+687,874,Rupture of Achilles tendon,tore my left Achilles tendon by simply jumping in the air
+688,876,Paraesthesia of lower extremity,Tingling in legs
+689,876,Paraesthesia of lower extremity,legs tingling in
+690,888,Erythema of skin,skin was very red and rough
+691,892,Raised low density lipoprotein cholesterol,high ldl
+692,896,Cramp in lower limb,leg cramps
+693,896,Cramp in lower limb,leg cramps
+694,896,Cramp in lower limb,leg cramps
+695,896,Cramp in lower limb,leg cramps
+696,896,Cramp in lower limb,leg/foot cramps
+697,896,Cramp in lower limb,muscles in my left leg locked up
+698,898,Severe dehydration,extreme dehydration
+699,902,Neuropathy of upper limb,Neuropothy in right hand
+700,903,Neuropathy of lower limb,leg neuropathy
+701,905,Cardiac arrhythmia,arrhythmia
+702,906,Post traumatic osteoarthritis,post traumaic osteoarthritis
+703,908,Symptom of ankle,weird symptoms (eg. popping) in ankle
+704,916,Naprosyn,Naprosyn
+705,917,Enbrel,Enbrel injections
+706,919,Voltaren,Voltaren
+707,919,Voltaren,voltaren
+708,920,Rhinocort Aqueous,Rhinocort
+709,929,Nexium,NEXIUM
+710,931,Tagamet,tagamet
+711,933,Tylenol,tylenol 8
+712,936,Lipex,lipex
+713,937,Arthrotec,Arthrotec
+714,937,Arthrotec,Arthrotec
+715,937,Arthrotec,Arthrotec
+716,937,Arthrotec,Arthrotec
+717,937,Arthrotec,Arthrotec
+718,937,Arthrotec,Arthrotec
+719,937,Arthrotec,Arthrotec
+720,941,Zoloft,Zoloft
+721,941,Zoloft,zoloft
+722,944,Ezetrol,Ezetrol
+723,947,Avandia,Avandia
+724,948,Pravachol,provacal
+725,949,Lipitor,LIPITOR
+726,949,Lipitor,LIPITOR
+727,949,Lipitor,LIPITOR
+728,949,Lipitor,Lipitor
+729,949,Lipitor,Lipitor
+730,949,Lipitor,Lipitor
+731,949,Lipitor,Lipitor
+732,949,Lipitor,Lipitor
+733,949,Lipitor,Lipitor
+734,949,Lipitor,Lipitor
+735,949,Lipitor,Lipitor
+736,949,Lipitor,Lipitor
+737,949,Lipitor,Lipitor
+738,949,Lipitor,Lipitor
+739,949,Lipitor,Lipitor
+740,949,Lipitor,Lipitor
+741,949,Lipitor,Lipitor
+742,949,Lipitor,Lipitor
+743,949,Lipitor,Lipitor
+744,949,Lipitor,Lipitor
+745,949,Lipitor,Lipitor
+746,949,Lipitor,Lipitor
+747,949,Lipitor,Lipitor
+748,949,Lipitor,Lipitor
+749,949,Lipitor,Lipitor
+750,949,Lipitor,Lipitor
+751,949,Lipitor,Lipitor
+752,949,Lipitor,Lipitor
+753,949,Lipitor,Lipitor
+754,949,Lipitor,Lipitor
+755,949,Lipitor,Lipitor
+756,949,Lipitor,Lipitor
+757,949,Lipitor,Lipitor
+758,949,Lipitor,Lipitor
+759,949,Lipitor,Lipitor
+760,949,Lipitor,Lipitor
+761,949,Lipitor,Lipitor
+762,949,Lipitor,Lipitor
+763,949,Lipitor,Lipitor
+764,949,Lipitor,Lipitor
+765,949,Lipitor,Lipitor
+766,949,Lipitor,Lipitor
+767,949,Lipitor,Lipitor
+768,949,Lipitor,Lipitor
+769,949,Lipitor,Lipitor
+770,949,Lipitor,Lipitor
+771,949,Lipitor,Lipitor
+772,949,Lipitor,Lipitor
+773,949,Lipitor,Lipitor
+774,949,Lipitor,Lipitor
+775,949,Lipitor,Lipitor
+776,949,Lipitor,Lipitor
+777,949,Lipitor,Lipitor
+778,949,Lipitor,Lipitor
+779,949,Lipitor,Lipitor
+780,949,Lipitor,Lipitor
+781,949,Lipitor,Lipitor
+782,949,Lipitor,Lipitor
+783,949,Lipitor,Lipitor
+784,949,Lipitor,Lipitor
+785,949,Lipitor,Lipitor
+786,949,Lipitor,Lipitor
+787,949,Lipitor,Lipitor
+788,949,Lipitor,Lipitor
+789,949,Lipitor,Lipitor
+790,949,Lipitor,Lipitor
+791,949,Lipitor,Lipitor
+792,949,Lipitor,Lipitor
+793,949,Lipitor,Lipitor
+794,949,Lipitor,Lipitor
+795,949,Lipitor,Lipitor(atorvastatin)
+796,949,Lipitor,Lipitors
+797,949,Lipitor,Liptor
+798,949,Lipitor,lipitor
+799,949,Lipitor,lipitor
+800,949,Lipitor,lipitor
+801,949,Lipitor,lipitor
+802,949,Lipitor,lipitor
+803,949,Lipitor,lipitor
+804,949,Lipitor,lipitor
+805,949,Lipitor,lipitor
+806,949,Lipitor,lipitor
+807,949,Lipitor,lipitor
+808,949,Lipitor,lipitor
+809,949,Lipitor,lipitor
+810,949,Lipitor,lipitor
+811,949,Lipitor,lipitor
+812,949,Lipitor,lipitor
+813,949,Lipitor,lipitor
+814,949,Lipitor,lipitor
+815,949,Lipitor,lipitor
+816,949,Lipitor,lipitor
+817,949,Lipitor,lipitor
+818,949,Lipitor,lipitor
+819,949,Lipitor,lipitor
+820,949,Lipitor,lipitor
+821,949,Lipitor,lipitor
+822,949,Lipitor,lipitor
+823,949,Lipitor,lipitor
+824,949,Lipitor,lipitor
+825,949,Lipitor,lipitor
+826,949,Lipitor,lipitor
+827,949,Lipitor,lipitor
+828,949,Lipitor,lipitor
+829,949,Lipitor,lipitor
+830,949,Lipitor,lipitor
+831,949,Lipitor,lipitor
+832,949,Lipitor,lipitor
+833,949,Lipitor,lipitor
+834,949,Lipitor,liptior
+835,950,Zocor,ZOCOR
+836,950,Zocor,Zocor
+837,950,Zocor,Zocor
+838,950,Zocor,zocor
+839,952,Crestor,Crestor
+840,952,Crestor,crestor
+841,955,Celebrex,celebrex
+842,956,Norvasc,Norvasc
+843,956,Norvasc,Norvasc
+844,964,simvastatin,Simvastatin
+845,964,simvastatin,simvastatin
+846,967,diclofenac,Cataflam
+847,967,diclofenac,Cataflam
+848,967,diclofenac,Cataflam
+849,977,paracetamol,Paracetamol
+850,1000,glibenclamide,Glyburide
+851,1001,ezetimibe,zetia
+852,1001,ezetimibe,zetia
+853,1002,fenofibrate 145 mg tablet,tricor 145 Mg
+854,1011,vitamin A,Vitamins A
+855,1017,Diovan,Diovan
+856,1020,glucosamine,Glucosamine
+857,1020,glucosamine,glucosamine sulfate
+858,1022,caffeine,caffeine
+859,1026,ubidecarenone,CoQ10
+860,1026,ubidecarenone,coQ10
+861,1028,ascorbic acid,Vitamin C
+862,1028,ascorbic acid,Vitamin C
+863,1028,ascorbic acid,vitamin C
+864,1028,ascorbic acid,vitamin C crystals
+865,1030,cyanocobalamin,B-12
+866,1035,omega-3-acid ethyl esters-90,omega 3
