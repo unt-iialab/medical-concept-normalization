@@ -20,7 +20,7 @@
       - 80% overlap  
       - 90% overlap  
       - 100% overlap  
-  >-Experiment (Change training dataset)  
+  >-Experiment (Change training dataset, folder 0)  
 ### AskAPatient
   >-Original data collection  
     - Training set  
