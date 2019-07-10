@@ -4,7 +4,7 @@
   >-Original data collection  
     - Training set  
     - Validate set  
-    - Testing set
+    - Testing set  
   >-Experiment (Change test dataset, folder 0)   
     - Training set  
     - Validate set  
