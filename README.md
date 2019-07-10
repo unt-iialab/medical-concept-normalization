@@ -2,7 +2,7 @@
 ## Data collection:
 ### AskAPatient 
   >-Original data collection  
-    - Training set  
+      * Training set  
     - Validate set  
     - Testing set  
   >-Experiment (Change test dataset, folder 0)   
